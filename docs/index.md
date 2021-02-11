@@ -1,1 +1,1 @@
-# astbss.github.io/public
+# astbss.github.io/docs
